@@ -76,6 +76,21 @@ body{
     color: rgb(60, 15, 210);
     text-align: center;
 }
+.contacts{
+    text-align: center;
+}
+.contact{
+    font-size: 47px;
+    letter-spacing: 2px;
+}
+.contact-text{
+    font-size: 20pt;
+    letter-spacing: 2px;
+}
+.contact-text1{
+    font-size: 30pt;
+    letter-spacing: 2px;
+}
 .footer{
     min-width: 1400px;
     height: 30px;
